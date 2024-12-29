@@ -1,0 +1,5 @@
+sample:
+  name: BT with Zephyr LAB
+  description: Demonstrates the basic functionalities of bluetooth using Zephyr
+  platform_allow: nrf52840dk/nrf52840
+  tags: bluetooth
